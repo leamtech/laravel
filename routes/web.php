@@ -19,6 +19,9 @@ Route::get('/hello', function () {
     return view('hello');
 });
 
+
+//hello
+
 Route::get('/first', function () {
     return view('first');
 });
