@@ -23,5 +23,5 @@ Route::get('/hello', function () {
 //hello
 
 Route::get('/first', function () {
-    return view('first');
+    return view('zero');
 });
